@@ -1,4 +1,4 @@
-# shopapp_connectx_lastversion
+# shopapp
 
 A new Flutter project.
 
